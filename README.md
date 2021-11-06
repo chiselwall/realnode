@@ -6,9 +6,9 @@
 
 [IPLC IEPL MPLS VPN GPLC CN2专线有什么区别？哪个更好？](https://freeroad.org/84.html "IPLC IEPL MPLS VPN GPLC CN2专线有什么区别？哪个更好？")
 
-今天有幸拿到了[Realnode](https://realnode.cloud/#/register?code=bIG0Tl5P "Realnode")的测试节点，全部采用IPLC专线。
+今天有幸拿到了[Realnode](https://user.realnode.pro/#/register?code=bIG0Tl5P "Realnode")的测试节点，全部采用IPLC专线。
 
-[realnode](https://realnode.cloud/#/register?code=bIG0Tl5P "realnode")适合追求极度稳定性的科学上网用户，而且据了解，该机场有以下特征：
+[realnode](https://user.realnode.pro/#/register?code=bIG0Tl5P "realnode")适合追求极度稳定性的科学上网用户，而且据了解，该机场有以下特征：
 
 - IPLC专线 1Gbps 原生IP
 - 港台日韩美新加坡俄罗斯等区域
@@ -40,5 +40,5 @@ MaxSpeed代表的是文件最大下载速度MB/s
 
 [![](https://freeroad.org/wp-content/uploads/2021/02/4JEqf.jpg)](iplc机场realnode)
 
-通过此链接注册[realnode](https://realnode.cloud/#/register?code=bIG0Tl5Phttp:// "realnode")可以获得8折优惠，优惠码：20off
-[点击注册](https://realnode.cloud/#/register?code=bIG0Tl5P "点击注册")
+通过此链接注册[realnode](https://user.realnode.pro/#/register?code=bIG0Tl5Phttp:// "realnode")可以获得8折优惠，优惠码：20off
+[点击注册](https://user.realnode.pro/#/register?code=bIG0Tl5P "点击注册")
