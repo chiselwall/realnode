@@ -6,9 +6,9 @@
 
 [IPLC IEPL MPLS VPN GPLC CN2专线有什么区别？哪个更好？](https://freeroad.org/84.html "IPLC IEPL MPLS VPN GPLC CN2专线有什么区别？哪个更好？")
 
-今天有幸拿到了[Realnode](https://user.realnode.pro/#/register?code=bIG0Tl5P "Realnode")的测试节点，全部采用IPLC专线。
+今天有幸拿到了[Chiselwall](https://chisel.run/#/register?code=wSfKsFJk "Chiselwall")的测试节点，全部采用IPLC专线。
 
-[realnode](https://user.realnode.pro/#/register?code=bIG0Tl5P "realnode")适合追求极度稳定性的科学上网用户，而且据了解，该机场有以下特征：
+[Chiselwall](https://chisel.run/#/register?code=wSfKsFJk "Chiselwall")适合追求极度稳定性的科学上网用户，而且据了解，该机场有以下特征：
 
 - IPLC专线 1Gbps 原生IP
 - 港台日韩美新加坡俄罗斯等区域
@@ -17,7 +17,7 @@
 - 支持UDP游戏加速线路
 - 完全无审计无任何障碍
 
-![iplc机场realnode](https://freeroad.org/wp-content/uploads/2021/02/3-4.png "iplc机场realnode")
+![iplc机场Chiselwall](https://freeroad.org/wp-content/uploads/2021/02/3-4.png "iplc机场Chiselwall")
 
 闲话少说，我们先测试一下节点速度如何
 
@@ -28,17 +28,17 @@
 AvgSpeed代表的是文件平均下载速度MB/s
 MaxSpeed代表的是文件最大下载速度MB/s
 
-![iplc机场realnode](https://freeroad.org/wp-content/uploads/2021/02/4JrKL.png "iplc机场realnode")
+![iplc机场Chiselwall](https://freeroad.org/wp-content/uploads/2021/02/4JrKL.png "iplc机场Chiselwall")
 
 测试环境：youtube 8K码率
 最直观的就是YOUTUBE跑分，博主打开8K（2160p）测试视频，可以轻松跑到十四万kbps，这是什么概念呢？一般来说看4k视频跑到4-5万kbps就算秒开不卡了，十四万kbps算是充分利用了博主的200M的本地带宽，丝毫感受不到像在翻墙，而是在浏览本地网络一样如丝滑般体验。
 
-![iplc机场realnode](https://freeroad.org/wp-content/uploads/2021/02/4JFHU.jpg "iplc机场realnode")
+![iplc机场Chiselwall](https://freeroad.org/wp-content/uploads/2021/02/4JFHU.jpg "iplc机场Chiselwall")
 
 测试环境：speedtest by Ookla
 本地带宽可以跑满
 
-[![](https://freeroad.org/wp-content/uploads/2021/02/4JEqf.jpg)](iplc机场realnode)
+[![](https://freeroad.org/wp-content/uploads/2021/02/4JEqf.jpg)](iplc机场Chiselwall)
 
-通过此链接注册[realnode](https://user.realnode.pro/#/register?code=bIG0Tl5Phttp:// "realnode")可以获得8折优惠，优惠码：20off
-[点击注册](https://user.realnode.pro/#/register?code=bIG0Tl5P "点击注册")
+通过此链接注册[Chiselwall](https://chisel.run/#/register?code=wSfKsFJkhttp:// "Chiselwall")可以获得8折优惠，优惠码：20off
+[点击注册](https://chisel.run/#/register?code=wSfKsFJk "点击注册")
